@@ -20,7 +20,7 @@ This file contains the model creation, hyperparameter tuning and feature importa
 4) **cardio_train.csv**
 This csv contains the dataset that we used for our analysis.
 
-_All other files are..._
+_All other files shown (marked with **) were the original code files from the repository we inherited from our first parent paper..._
 
 
 **Novelty Code Contributions**
