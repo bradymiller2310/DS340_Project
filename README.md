@@ -9,14 +9,18 @@ This DS 340W term project was done by myself and Sam Cerimele. Heart disease is 
    
 This file contains our exploratory data analysis (EDA), data preprocessing, creation of the CNN model for the entire dataset, as well as its hyperparameter tuning, bagging, and SHAP and LIME visual explanations.
 
-3) **CNN_bagging_males.ipynb**
+2) **CNN_bagging_males.ipynb**
 
 This file contains the model creation, hyperparameter tuning and feature importance analysis for the **male** only dataset that was created and saved from the _Ensemble_CNN_w_bagging.ipynb_ file.
 
-5) **CNN_bagging_females.ipynb**
+3) **CNN_bagging_females.ipynb**
    
 This file contains the model creation, hyperparameter tuning and feature importance analysis for the **female** only dataset that was created and saved from the _Ensemble_CNN_w_bagging.ipynb_ file.
 
+4) **cardio_train.csv**
+This csv contains the dataset that we used for our analysis.
+
+_All other files are..._
 
 
 **Novelty Code Contributions**
@@ -29,7 +33,7 @@ Most of the code in those 3 files were created by us. Most of the EDA was provid
 
 1) https://arxiv.org/abs/2008.02731
   
-3) https://www.sciencedirect.com/science/article/pii/S235291482100143X?ref=pdf_download&fr=RR-2&rr=8e0802a1187d505a
+2) https://www.sciencedirect.com/science/article/pii/S235291482100143X?ref=pdf_download&fr=RR-2&rr=8e0802a1187d505a
 
-4) https://link.springer.com/content/pdf/10.1007/s13369-020-05105-1.pdf
+3) https://link.springer.com/content/pdf/10.1007/s13369-020-05105-1.pdf
 
